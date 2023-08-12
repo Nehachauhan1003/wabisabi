@@ -1,0 +1,137 @@
+*{
+    margin: 0%;
+}
+div{
+    
+    text-align: center;
+    align-items: center;
+    font-size: medium;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Fraunces', serif;
+}
+
+
+.Table{
+    background:#1F0322 ;
+    color: #ffffff;
+    padding: 2rem;
+    width: fit-content;
+    height: fit-content;
+    border: 1px solid #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: x-large; 
+    background-size: 50% 50%;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+}
+.TableOne{
+    background:#1F0322 ;
+    color: #ffffff;
+    padding: 2rem;
+    width: fit-content;
+    height: fit-content;
+    border: 1px solid #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: x-large; 
+    background-size: 50% 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+}
+
+td, tr{
+    border: 1.5px solid #ffffff;
+    font-size: large;
+}
+h4{
+    color: white;
+    background: #1F0322;
+    text-align: center;
+    padding: 2%;
+    
+}
+.navigation{
+    background:  #1F0322 ;
+    width: 100%;
+    height: 70px;
+    position: fixed;
+}
+.logo h1{
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 2%;
+}
+.nav a{
+    color: white;
+    padding: 1.2%;
+    vertical-align: middle;
+    text-decoration: black;
+    float: right;
+    font-size: x-large;
+    border: 0.7px solid #ffffff;
+    border-radius: 0.7rem;
+   
+}
+
+.back1{
+    background: #ffffff;
+    background-size: cover;
+    color: rgb(255,255,255);
+    background-attachment: fixed;
+    min-height: 100vh;
+}
+
+.One{
+    background: #1F0322;
+    color: white;
+    font-size: medium;
+    border-radius: 2rem;
+    border-width: thick;
+    border-style: double;
+    padding: 4%;
+    background-size: 50% 50%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+}
+
+.Two{
+    background-color: rgb(192,192,192);
+    color: black;
+    font-size: large;
+    
+}
+.Three{
+    font-size: x-large; 
+    color: white ;
+    background: #1F0322;   
+}
+.Four{
+    background:  #1F0322;
+    color: white;
+    font-size: xx-large;
+    border-radius: 2rem;
+    border-width: thick;
+    border-style: double;
+    padding: 3%;
+    background-size: 10% 30%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+}
